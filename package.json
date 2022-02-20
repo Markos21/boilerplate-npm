@@ -1,5 +1,9 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "markos sebhat",
+	"description": "A project that does something awesome",
+	"license": "MIT",
+	
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -7,6 +11,9 @@
 	"scripts": {
 		"start": "node server.js"
 	},
+	
+	"keywords": [ "descriptive", "related", "words","freecodecamp"],
+	"version": "1.2.0",
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
